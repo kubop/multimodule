@@ -1,6 +1,6 @@
 [submodule "moduleA"]
 	path = moduleA
-	url = .\\moduleA\\
+	url = https://github.com/kubop/multimodule-moduleA
 [submodule "moduleB"]
 	path = moduleB
 	url = .\\moduleB\\
