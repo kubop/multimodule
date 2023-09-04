@@ -1,6 +1,6 @@
 [submodule "moduleA"]
 	path = moduleA
-	url = https://github.com/kubop/multimodule-moduleA
+	url = https://pej-azure@dev.azure.com/pej-azure/multimodule/_git/multimodule-moduleA
 [submodule "moduleB"]
 	path = moduleB
-	url = https://github.com/kubop/multimodule-moduleB.git
+	url = https://pej-azure@dev.azure.com/pej-azure/multimodule/_git/multimodule-moduleB
