@@ -3,4 +3,4 @@
 	url = https://github.com/kubop/multimodule-moduleA
 [submodule "moduleB"]
 	path = moduleB
-	url = .\\moduleB\\
+	url = https://github.com/kubop/multimodule-moduleB.git
